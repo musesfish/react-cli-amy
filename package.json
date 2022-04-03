@@ -1,6 +1,6 @@
 {
   "name": "react-cli-amy",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "private": false,
   "dependencies": {
     "@rematch/core": "^1.1.0",
