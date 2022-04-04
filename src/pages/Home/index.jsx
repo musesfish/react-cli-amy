@@ -19,7 +19,7 @@ class Home extends PureComponent {
     return (
       <div style={{height:'100%',display:'flex',background:'#fff',flexDirection:'column',justifyContent:'center',alignItems:"center"}}>
         <div style={{fontSize:22,marginBottom:10,}}>I am {text}</div>
-        <div>{num ==== 1 ? <UserView /> : <AboutView /> }</div>
+        <div>{num === 1 ? <UserView /> : <AboutView /> }</div>
       </div>
     )
   }
